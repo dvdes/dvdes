@@ -1,1 +1,1 @@
-learning java, javascript and python
+learning java
